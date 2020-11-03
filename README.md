@@ -1,4 +1,6 @@
 # hapi-passport-saml
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsscarduzio%2Fhapi-passport-saml.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsscarduzio%2Fhapi-passport-saml?ref=badge_shield)
+
 A Hapi plugin that wraps passport-saml for SAML SSO (as SP)
 with support for multiple strategies
 
@@ -109,3 +111,6 @@ More info: [Integrating hapi cookie with hapi passport saml v1.1.0
 
 ## License
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsscarduzio%2Fhapi-passport-saml.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsscarduzio%2Fhapi-passport-saml?ref=badge_large)
